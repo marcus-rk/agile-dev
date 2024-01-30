@@ -1,1 +1,1 @@
-Added new test file to Git
+Added new test file to Git. Added more text.
