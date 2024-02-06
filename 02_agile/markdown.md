@@ -6,7 +6,7 @@ I am *italic*. I am **bold**. I am ***italic*** and ***bold***
 
 Here is some code:
 
-```
+``` kotlin
 fun main() {
     println("Hello World");
 }
